@@ -33,7 +33,7 @@ Rejected orders are excluded from orders, units and revenue in SQL and Power BI.
 - Price has only a weak link with units sold (correlation about -0.11).
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboardbike.png)
 
 ## Folder Structure
 - `raw_data`: original files
